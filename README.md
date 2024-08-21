@@ -25,58 +25,47 @@ Deployment and Maintenance:The software is deployed to production environments.O
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
-Waterfall:
-Description: Waterfall is a linear project management approach with well-defined stages. Each stage (requirements, design, development, testing) follows the previous one, and there are formal hand-offs.
-Characteristics:
+Waterfall is a linear project management approach with well-defined stages. Each stage (requirements, design, development, testing) follows the previous one, and there are formal hand-offs while Agile emphasizes flexibility, rapid iteration, and continuous improvement. Work is divided into time-based Sprints, allowing frequent value delivery.
+Characteristics of waterfall
 Clear milestones and structured planning.
 Sequential process: One phase must complete before the next begins.
 Best suited for stable, unchanging requirements.
 Scenarios:
 Building a bridge or physical infrastructure.
 Regulatory compliance projects.
-Projects with limited customer feedback1.
-Agile:
-Description: Agile emphasizes flexibility, rapid iteration, and continuous improvement. Work is divided into time-based Sprints, allowing frequent value delivery.
-Characteristics:
+Projects with limited customer feedback. 
+Characteristics o Agile
 Iterative and adaptive.
 Self-organizing teams.
 Prioritizes customer/user feedback.
 Scenarios:
 Software development (especially web and mobile apps).
 Creative projects with evolving requirements.
-Startups or small teams where agility is crucial2.
-Remember, the choice depends on project needs—Waterfall for stability, Agile for adaptability! 🚀
-
-1
-productplan.com
-2
-geeksforgeeks.org
-3
-figma.com
-4
-hygger.io
-Chat with Copilot
-
-
-Copilot uses AI. Check for mistakes.
-Terms
-|
-Privacy
-|
-FAQs
-
-Identify and describe at least three key milestones in the evolution of software engineering.
-
-
-List and briefly explain the phases of the Software Development Life Cycle.
-
-
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+Startups or small teams where agility is crucial
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
-
+Software Developer/Software Engineer.
+Role: Software developers are responsible for designing, coding, and maintaining software applications.
+Responsibilities:
+Design and Development: They create software solutions based on requirements, using programming languages and frameworks.
+Testing and Debugging: Developers write unit tests, identify and fix bugs, and optimize code.
+Collaboration: They work closely with other team members, including designers, product managers, and QA engineers.
+Continuous Learning: Developers stay updated on industry trends and best practices.
+Quality Assurance (QA) Engineer /Tester:
+Role: QA engineers ensure the quality and reliability of software products.
+Responsibilities:
+Test Planning: They create test plans, test cases, and test scripts.
+Functional and Non-Functional Testing: QA engineers verify that the software meets functional requirements (e.g., features) and non-functional requirements (e.g., performance, security).
+Regression Testing: They ensure that new features don’t break existing functionality.
+Reporting and Documentation: QA engineers document defects and provide feedback to developers.
+Project Manager:
+Role: Project managers oversee the entire software development process.
+Responsibilities:
+Planning and Coordination: They create project plans, allocate resources, and manage timelines.
+Risk Management: Project managers identify and mitigate risks.
+Communication: They facilitate communication among team members, stakeholders, and clients.
+Budget and Scope Control: Project managers ensure that the project stays within budget and meets the defined scope.
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 
