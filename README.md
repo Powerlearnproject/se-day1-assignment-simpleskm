@@ -101,6 +101,10 @@ Acceptance testing involves real end users testing the software. Validates if th
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Is formulating presice and clear instructions when interacting witj AI models.
+This guides the model to give a response that aligns with the user's intent. Gives better results
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague prompt: "what is software engineering"
+Improved Prompt; " Explain the meaning of software engineering"
+It claerly specifies the task.
