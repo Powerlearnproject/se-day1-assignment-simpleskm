@@ -104,7 +104,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 Is formulating presice and clear instructions when interacting witj AI models.
 This guides the model to give a response that aligns with the user's intent. Gives better results
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Provide an example of  vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague prompt: "what is software engineering"
 Improved Prompt; " Explain the meaning of software engineering"
 It clearly specifies the task.
