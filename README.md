@@ -107,4 +107,4 @@ This guides the model to give a response that aligns with the user's intent. Giv
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague prompt: "what is software engineering"
 Improved Prompt; " Explain the meaning of software engineering"
-It claerly specifies the task.
+It clearly specifies the task.
